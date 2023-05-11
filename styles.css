@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    color: white;
+}
+
+div > p{
+    color: red;
+}
